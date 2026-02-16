@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **gaurav12345bisht@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
-- 🌱 **I’m currently learning:** mysql,aws
+- 🌱 **I’m currently learning:** data science , web devlopment,sql.
 - 😄 **Pronouns:** gaurav
 - ⚡ **Fun fact:** I Love exploring new places
 
