@@ -62,6 +62,14 @@ Email Me 👉 ✉️ **gaurav12345bisht@gmail.com** For Collaboration, Projects,
 ### 🧠 Core Focus
 
 **Software Development** · **Data Structures & Algorithms** · **Data Science** · **Machine Learning** · **AI/LLM Applications** · **RAG & Semantic Search** · **Web Development** · **SQL & Databases**
+
+## 📌 GitHub Contributions
+
+![Total Commits](https://img.shields.io/github/commit-activity/y/gauravsb1?style=flat-square&label=Commits%20This%20Year)
+![Repositories](https://img.shields.io/badge/Repositories-View%20Profile-181717?style=flat-square&logo=github)
+![Followers](https://img.shields.io/github/followers/gauravsb1?style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/gauravsb1?style=flat-square&label=Stars)
+
 # 📊 GitHub Stats
 
 <div align="center">
