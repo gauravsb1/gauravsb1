@@ -96,7 +96,3 @@ Email Me 👉 ✉️ **gaurav12345bisht@gmail.com** For Collaboration, Projects,
 ### 🏆 Top Contributed Repository
 
 ![Top Contributed Repository](https://github-contributor-stats.vercel.app/api?username=gauravsb1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 🏆 Top Contributed Repository
-
-![](https://github-contributor-stats.vercel.app/api?username=gauravsb1&limit=5&theme=dark&combine_all_yearly_contributions=true)
