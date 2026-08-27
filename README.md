@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Gaurav Singh Bisht
-**A passionate Software Engineer from India**
+**A passionate Software Engineer **
 
 Email Me 👉 ✉️ **gaurav12345bisht@gmail.com** For Collaboration, Projects, or Anything Tech-Related. 😊
 
@@ -75,10 +75,11 @@ Email Me 👉 ✉️ **gaurav12345bisht@gmail.com** For Collaboration, Projects,
 - Web Development
 - Git & GitHub
 - Docker & Shell
+
 # 📊 GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gauravsb1&theme=dark&hide_border=false)
 
-</div>.vercel.app/api?username=gauravsb1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
