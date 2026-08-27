@@ -76,23 +76,26 @@ Email Me 👉 ✉️ **gaurav12345bisht@gmail.com** For Collaboration, Projects,
 - Git & GitHub
 - Docker & Shell
 
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauravsb1&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravsb1&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=gauravsb1&theme=dark&hide_border=false" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=gauravsb1&theme=dark&hide_border=false)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsb1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsb1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
+
+### 🏆 Top Contributed Repository
+
+![Top Contributed Repository](https://github-contributor-stats.vercel.app/api?username=gauravsb1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🏆 Top Contributed Repository
 
